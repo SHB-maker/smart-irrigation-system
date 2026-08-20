@@ -1,5 +1,7 @@
 # Smart Irrigation System — IoT Educational Test Bench
 
+![Smart Irrigation System](images/vue_generale.jpeg)
+
 An Arduino-based educational test bench designed to help students learn IoT through hands-on projects involving sensors, automation, irrigation and water recycling.
 
 ## Overview
